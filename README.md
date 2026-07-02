@@ -4,11 +4,13 @@ A Power BI portfolio project demonstrating healthcare operations reporting, data
 
 ## Project Background
 
-This project is based on a healthcare operations analytics and optimisation project completed at the University of Melbourne, focusing on surgical activity and operating room performance in a New South Wales hospital context.
+This project is based on a healthcare operations analytics and optimisation project for a New South Wales hospital, conducted in collaboration with the University of Melbourne.
 
-The original business problem was that surgical operations stakeholders needed a clearer way to monitor key performance metrics across procedure activity, elective and emergency demand, waiting times, cancellations, department performance, and operating room utilisation. The data contained procedure-level operational records across the 2022–2024 period, covering approximately 36,000 surgical cases. These records included completed procedures, cancelled procedures, postponed procedures, elective cases, emergency cases, procedure durations, waiting times, departments, operating rooms, and cancellation reasons.
+The dataset covered procedure-level surgical operations records from 2022 to 2024, including approximately 36,000 surgical cases across completed, cancelled, and postponed procedures.
 
-Before any reporting or optimisation work could be performed, the data required substantial cleaning, transformation, and restructuring. This included preparing date and time fields, standardising procedure status categories, deriving waiting time and duration measures, mapping departments and operating rooms, classifying elective and emergency activity, preparing cancellation reason groups, and converting the operational records into a structured model suitable for Power BI reporting.
+The business need was to give surgical operations stakeholders a clearer dashboard view of key metrics, including procedure activity, elective and emergency demand, waiting times, cancellations, department performance, and operating room utilisation.
+
+Before any reporting or optimisation work could be performed, the data required substantial cleaning, transformation, and restructuring using Power Query. This included preparing date and time fields, standardising procedure status categories, deriving waiting time and duration measures, mapping departments and operating rooms, classifying elective and emergency activity, preparing cancellation reason groups, and converting the operational records into a structured model suitable for Power BI reporting.
 
 The dashboard was developed to provide stakeholders with an executive view of surgical operations performance and to support further analysis for service planning, resource allocation, and optimisation.
 
