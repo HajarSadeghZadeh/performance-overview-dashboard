@@ -149,7 +149,7 @@ Full measure documentation is available here:
 
 - [DAX Measures](documentation/dax_measures.md)
 
-![DAX Measures](images/dax_measures.png)
+![DAX Measures screenshot](images/dax_measures.png)
 
 ## Repository Structure
 
