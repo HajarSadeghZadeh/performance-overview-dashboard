@@ -209,4 +209,4 @@ This public portfolio repository uses a structured demonstration dataset designe
 ## Author
 
 **Hajar Sadegh Zadeh**  
-Business Intelligence | Healthcare Analytics | Data Modelling | Power BI | Optimisation
+Healthcare Analytics | Power BI | Data Modelling | DAX | Optimisation
