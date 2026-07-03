@@ -1,0 +1,13 @@
+OperatingRoomID,OperatingRoomName,RoomType,CapacityGroup,IsEmergencyCapable,LocationGroup
+OR01,Theatre 1,Standard,Medium,0,Main Theatre Suite
+OR02,Theatre 2,Standard,Large,0,Main Theatre Suite
+OR03,Theatre 3,Standard,Medium,0,Main Theatre Suite
+OR04,Theatre 4,Standard,Large,0,Main Theatre Suite
+OR05,Theatre 5,Standard,Medium,0,Main Theatre Suite
+OR06,Theatre 6,Standard,Small,0,Main Theatre Suite
+OR07,Theatre 7,Standard,Medium,0,Main Theatre Suite
+OR08,Theatre 8,Standard,Medium,0,Main Theatre Suite
+OR09,Theatre 9,Emergency,Large,1,Main Theatre Suite
+OR10,Theatre 10,Specialty,Large,1,Main Theatre Suite
+OR11,Theatre 11,Specialty,Medium,0,Main Theatre Suite
+OR12,Theatre 12,Standard,Small,0,Main Theatre Suite

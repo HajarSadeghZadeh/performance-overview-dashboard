@@ -1,0 +1,12 @@
+CancellationReasonID,CancellationReason,ReasonGroup
+CR00,Not Applicable,Not Applicable
+CR01,No theatre time,Capacity
+CR02,Emergency case displaced elective case,Capacity
+CR03,Patient unavailable,Patient
+CR04,Patient medically unfit,Clinical
+CR05,Bed unavailable,Capacity
+CR06,Staff unavailable,Resource
+CR07,Equipment unavailable,Resource
+CR08,Administrative change,Administrative
+CR09,Clinical priority changed,Clinical
+CR10,Other,Other

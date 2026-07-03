@@ -1,0 +1,4 @@
+StatusID,Status,StatusGroup
+S01,Completed,Completed
+S02,Cancelled,Cancelled
+S03,Postponed,Postponed

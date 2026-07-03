@@ -1,0 +1,4 @@
+PriorityGroupID,PriorityGroup,TargetDays,PriorityOrder
+PG01,Urgent,30,1
+PG02,Semi-Urgent,90,2
+PG03,Routine,365,3

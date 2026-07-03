@@ -1,0 +1,19 @@
+ProcedureCategoryID,ProcedureCategory,DefaultDepartmentID,ComplexityLevel,TypicalDurationMinutes,ProcedureGroup
+PC01,General Minor Procedure,D01,Low,45,General Procedures
+PC02,General Major Procedure,D01,High,120,General Procedures
+PC03,Joint Replacement,D02,High,140,Orthopaedic Procedures
+PC04,Fracture Repair,D02,Medium,95,Orthopaedic Procedures
+PC05,Urology Minor Procedure,D03,Low,50,Urology Procedures
+PC06,Urology Major Procedure,D03,Medium,95,Urology Procedures
+PC07,Gynaecology Minor Procedure,D04,Low,55,Gynaecology Procedures
+PC08,Gynaecology Major Procedure,D04,Medium,100,Gynaecology Procedures
+PC09,ENT Procedure,D05,Medium,75,ENT Procedures
+PC10,Ophthalmology Procedure,D06,Low,40,Ophthalmology Procedures
+PC11,Plastic Minor Procedure,D07,Medium,70,Plastic Surgery Procedures
+PC12,Plastic Major Procedure,D07,High,150,Plastic Surgery Procedures
+PC13,Neurosurgery Procedure,D08,High,180,Neurosurgery Procedures
+PC14,Vascular Procedure,D09,High,135,Vascular Procedures
+PC15,Emergency General Procedure,D01,Medium,90,Emergency Procedures
+PC16,Emergency Orthopaedic Procedure,D02,Medium,110,Emergency Procedures
+PC17,Emergency Neurosurgery Procedure,D08,High,190,Emergency Procedures
+PC18,Other Surgical Procedure,D10,Medium,80,Other Procedures

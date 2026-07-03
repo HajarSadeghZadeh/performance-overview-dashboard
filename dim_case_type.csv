@@ -1,0 +1,3 @@
+CaseTypeID,CaseType,CaseTypeGroup
+CT01,Elective,Planned
+CT02,Emergency,Unplanned
